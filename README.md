@@ -4,10 +4,14 @@
 <h3 align="center">I'm passionate full-stack developer from Brazil.</h3>
 
 # 💫About Me :
-💻I'm currently working on: typescript with React, Saga, Redux and Python for web, Python with cherry py, bottle,
+💻I'm currently working on: typescript with React, Saga, Redux and Python for web, Python with cherry py, bottle 
+
 🤝🏻I currently collaborate on Aceleradora Ágil and Thoughtworks
+
 🙇‍♂️I'm curently learning Generative AI and IoT
+
 ⚡Fun Fact: I started proggramming as a kid at 8 years-old, as a hobby
+
 You can ask me about anything at Linkedin
 
 ## 🌐Socials
