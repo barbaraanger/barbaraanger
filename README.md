@@ -25,6 +25,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/barbaraanger)
 
 </div>
+
 ## Technologies
 
 ### **Markup languages and styles**
