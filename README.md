@@ -8,7 +8,7 @@
 Passionate about building scalable applications with Java, Spring Boot, React, and cloud technologies. Always learning and sharing knowledge!
 
 # 💫About Me :
-> 💻I'm currently working on: typescript with React, Saga, Redux and Python for web, Python with cherry py, bottle  \
+> 💻I'm currently working on: typescript with Perl, Shell and Python  \
 > 🤝🏻I currently work at Wex Inc. \
 > 🙇‍♂️I'm curently learning Generative AI and IoT \
 > ⚡Fun Fact: I started proggramming as a kid at 8 years-old, as a hobby
