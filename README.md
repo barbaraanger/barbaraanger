@@ -1,17 +1,16 @@
 # Bárbara Anger
-> 👋 Hi, I'm Barbara Anger!
-> 🚀 Senior Software Developer @ Wex Inc.
-> 💻 Full-Stack Developer | ☁️ Cloud Enthusiast | ⚡ Event-Driven Architecture
+> 👋 Hi, I'm Barbara Anger! \
+> 🚀 Senior Software Developer @ Wex Inc. \
+> 💻 Full-Stack Developer \
+> ☁️ Cloud Enthusiast \
+> ⚡ Event-Driven Architecture
 
 Passionate about building scalable applications with Java, Spring Boot, React, and cloud technologies. Always learning and sharing knowledge!
 
 # 💫About Me :
-> 💻I'm currently working on: typescript with React, Saga, Redux and Python for web, Python with cherry py, bottle 
-
-> 🤝🏻I currently collaborate on Aceleradora Ágil and Thoughtworks
-
-> 🙇‍♂️I'm curently learning Generative AI and IoT
-
+> 💻I'm currently working on: typescript with React, Saga, Redux and Python for web, Python with cherry py, bottle  \
+> 🤝🏻I currently work at Wex Inc. \
+> 🙇‍♂️I'm curently learning Generative AI and IoT \
 > ⚡Fun Fact: I started proggramming as a kid at 8 years-old, as a hobby
 
 > You can ask me about anything on [LinkedIn](https://www.linkedin.com/in/barbaraanger/)!
@@ -28,7 +27,8 @@ Passionate about building scalable applications with Java, Spring Boot, React, a
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/barbaraanger)
 
 </div>
-For more information about my technical experience, click [here](https://github.com/barbaraanger/barbaraanger/blob/main/tech.md)!. 
+
+### For more information about my technical experience, click [here](https://github.com/barbaraanger/barbaraanger/blob/main/tech.md)!
 
 ---
 
