@@ -1,5 +1,9 @@
 # Bárbara Anger
-> Hello, my name is Barbara! I'm passionate developer from Brazil.
+> 👋 Hi, I'm Barbara Anger!
+> 🚀 Senior Software Developer @ Wex Inc.
+> 💻 Full-Stack Developer | ☁️ Cloud Enthusiast | ⚡ Event-Driven Architecture
+
+Passionate about building scalable applications with Java, Spring Boot, React, and cloud technologies. Always learning and sharing knowledge!
 
 # 💫About Me :
 > 💻I'm currently working on: typescript with React, Saga, Redux and Python for web, Python with cherry py, bottle 
