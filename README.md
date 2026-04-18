@@ -1,6 +1,6 @@
 # Bárbara Anger
 > 👋 Hi, I'm Barbara Anger! \
-> 🚀 Systems Analyst @ iFood \
+> 🚀 Software Engineer @ iFood \
 > 💻 Full-Stack Developer \
 > ☁️ Cloud Enthusiast \
 > ⚡ Event-Driven Architecture
